@@ -8,10 +8,9 @@ This code is a Node.js command-line AI agent application written in TypeScript w
 What is an agent?
 An agent is an LLM (hence the AI moniker) with access to tools, giving it the ability to modify something outside of its application scope or context window. For example in this project, Claude can read the files of the project and make inferences about what type of project it is, what language(s) it is written in, write a summary of what it does and other statistics. If you have ever written a parser before you will understand that this is huge. And dangerous. 
 
-```
-`Why is an agent?`
--- Drax the Destroyer
-```
+
+>`Why is an agent?`
+>   -- Drax the Destroyer
 
 Why is it dangerous? In 400 lines of code we have opened a gateway to primitive machine intelligence. The power that we can wield in a such a few lines of code is scary. Most of us are benevolent. What about the evil people out there?
 
@@ -24,14 +23,14 @@ Then we loop, get input, send this input plus past inputs to the LLM, get a resp
 
 Here are the key resources:
 
-YouTube: https://www.youtube.com/watch?v=rEf2-VC2jEIpn
+YouTube: [Video - 35 minutes](https://www.youtube.com/watch?v=rEf2-VC2jEIpn)
 
-Article: https://kevinyank.com/posts/how-to-build-an-agent-in-javascript/
+Article: [Kevin Yank's blog post](https://kevinyank.com/posts/how-to-build-an-agent-in-javascript/)
 
-Foundational article: https://ampcode.com/how-to-build-an-agent
-(People say probably best blog of 2025. I agree.)
+Foundational article: [Blog post from Thorsten Ball](https://ampcode.com/how-to-build-an-agent)
+>(People say probably best blog of 2025. I agree.)
 
-Anthropic: https://www.anthropic.com/
+[Anthropic](https://www.anthropic.com/)
 
 ## How to run
 
