@@ -68,3 +68,11 @@ pnpm i
 ```
 
 Finally, run the agent CLI with `pnpm agent`.
+
+[Source Code](https://github.com/awindest/ai-agent-coding-project/)
+
+## Future Research
+
+Run Claude (or free alternative) locally. Here is a [guide](https://cline.bot/blog/6-best-open-source-claude-code-alternatives-in-2025-for-developers-startups-copy)
+
+Use an SLM locally.
