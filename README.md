@@ -1,6 +1,7 @@
 
-<img width="1024" height="1024" alt="AI Coding Project Logo" src="https://github.com/user-attachments/assets/b8b4a568-5758-46dd-ace3-1993cc66ce54" />
-# AI AgentCoding Project"
+<img width="512" height="512" alt="AI Coding Project Logo" src="https://github.com/user-attachments/assets/b8b4a568-5758-46dd-ace3-1993cc66ce54" />
+
+# AI AgentCoding Project
 
 This code is a Node.js command-line AI agent application written in TypeScript which is redundantly redundant.
 
